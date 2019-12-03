@@ -49,3 +49,5 @@ Right clicking a file gives the option to outsource the file to either another m
 # Desktop queuing
 
 Sometimes we want to achieve multiple things, one after the other. Queuing is way of scheduling operations across UIs.
+
+How do you queue multiple operations graphically? Like a piece of code.
