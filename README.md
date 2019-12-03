@@ -45,3 +45,7 @@ Cloud acceleration is what services can it outsourced to the Cloud from a deskto
 Right clicking a file gives the option to outsource the file to either another machine you own or to the Cloud.
 
 ![](images/outsource.png)
+
+# Desktop queuing
+
+Sometimes we want to achieve multiple things, one after the other. Queuing is way of scheduling operations across UIs.
