@@ -42,4 +42,6 @@ Cloud acceleration is what services can it outsourced to the Cloud from a deskto
 
 # Outsourcing files
 
+Right clicking a file gives the option to outsource the file to either another machine you own or to the Cloud.
+
 ![](images/outsource.png)
