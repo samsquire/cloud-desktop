@@ -2,5 +2,14 @@
 
 Imagine a desktop that integrated with cloud deeply.
 
-# Sign into cloud
+# Welcome
 
+![](images/welcome.png)
+
+# Pick a cloud
+
+![](images/budget.png)
+
+# Pick a cloud
+
+![](images/pickcloud.png)
