@@ -14,4 +14,6 @@ Imagine a desktop that integrated with cloud deeply.
 
 ![](images/pickcloud.png)
 
-# 
+# Log into your cloud provider
+
+![](images/cloud_login.png)
