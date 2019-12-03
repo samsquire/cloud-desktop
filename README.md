@@ -19,3 +19,7 @@ Imagine a desktop that integrated with cloud deeply.
 ![](images/cloud_login.png)
 
 ![](images/creating_cloud.png)
+
+# Cloud acceleration
+
+![](images/acceleration.png)
