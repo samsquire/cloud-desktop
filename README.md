@@ -6,10 +6,12 @@ Imagine a desktop that integrated with cloud deeply.
 
 ![](images/welcome.png)
 
-# Pick a cloud
+# Pick a digital budget
 
 ![](images/budget.png)
 
-# Pick a cloud
+# Pick a cloud provider
 
 ![](images/pickcloud.png)
+
+# 
