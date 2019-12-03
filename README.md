@@ -42,4 +42,4 @@ Cloud acceleration is what services can it outsourced to the Cloud from a deskto
 
 # Outsourcing files
 
-![](outsource.png)
+![](images/outsource.png)
