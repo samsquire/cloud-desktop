@@ -1,4 +1,4 @@
-# cloud-native-desktop
+# cloud-desktop
 
 Imagine a desktop that integrated with cloud deeply.
 
@@ -17,3 +17,5 @@ Imagine a desktop that integrated with cloud deeply.
 # Log into your cloud provider
 
 ![](images/cloud_login.png)
+
+![](images/creating_cloud.png)
