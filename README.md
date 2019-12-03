@@ -39,3 +39,7 @@ Cloud acceleration is what services can it outsourced to the Cloud from a deskto
 **Space network** Gather all your machines spare space and fill them with files automatically.
 
 **Cloud backup** Create scheduled backups to the cloud
+
+# Outsourcing files
+
+![](outsource.png)
