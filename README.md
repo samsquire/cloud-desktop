@@ -55,3 +55,11 @@ How do you queue multiple operations graphically?
  * Right click a call to action and click Create queue
 
 ![](images/queuing.png)
+
+# Desktop wide progress registry
+
+Before a time consuming task is started, it is registered centrally by the desktop environment so progress bars can be collected centrally and queues can be created.
+
+![](images/progress.png)
+
+
