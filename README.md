@@ -62,4 +62,6 @@ Before a time consuming task is started, it is registered centrally by the deskt
 
 ![](images/progress.png)
 
+# Streamed GUIs
 
+How do you stream a GUI?
