@@ -32,7 +32,7 @@ Cloud acceleration is what services can it outsourced to the Cloud from a deskto
 
 **Desktop queuing** The ability for a desktop to queue operations across multiple machines
 
-**Enable community solutions** Other people have approaches to various system problems and ways of doing things with their computers. Such as writing their own personal managemenet system, deciding how to analyse log files.
+**Enable community solutions** Other people have approaches to various system problems and ways of doing things with their computers. Such as writing their own personal management system, deciding when to delete log files, or some other per user choice about how things should work.
 
 **Remote logging** Send log files to the cloud box for archival and search.
 
