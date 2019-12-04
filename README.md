@@ -65,3 +65,9 @@ Before a time consuming task is started, it is registered centrally by the deskt
 # Declarative GUIs useable before finishing downloading
 
 Imagine if in a package archive there was some GUIs in a standard format early in the archive. It is possible for the desktop environment to present these GUIs to the user to collect data in advance before the remainder has been downloaded.
+
+# Life Indicators
+
+The desktop environment should act as a personal dashboard and include features such as Food, Accommodation, Money, USB devices, Phones, Travel
+
+![](images/indicator.png)
