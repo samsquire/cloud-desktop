@@ -62,6 +62,6 @@ Before a time consuming task is started, it is registered centrally by the deskt
 
 ![](images/progress.png)
 
-# Streamed GUIs
+# Declarative GUIs useable before finishing downloading
 
-How do you stream a GUI?
+Imagine if in a package archive there was some GUIs in a standard format early in the archive. It is possible for the desktop environment to present these GUIs to the user to collect data in advance before the remainder has been downloaded.
