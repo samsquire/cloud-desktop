@@ -48,8 +48,10 @@ Right clicking a file gives the option to outsource the file to either another m
 
 # Desktop queuing
 
-Sometimes we want to achieve multiple things, one after the other. Queuing is way of scheduling operations across UIs.
+Sometimes we want to achieve multiple things, one after the other. Queuing is way of scheduling operations across UIs and across computers.
 
-How do you queue multiple operations graphically? Like a piece of code.
+How do you queue multiple operations graphically?
+
+ * Right click a call to action and click Create queue
 
 ![](images/queuing.png)
