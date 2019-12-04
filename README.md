@@ -52,4 +52,4 @@ Sometimes we want to achieve multiple things, one after the other. Queuing is wa
 
 How do you queue multiple operations graphically? Like a piece of code.
 
-![](queuing.png)
+![](images/queuing.png)
