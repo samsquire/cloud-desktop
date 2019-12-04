@@ -22,7 +22,7 @@ Imagine a desktop that integrated with cloud deeply.
 
 # Cloud acceleration
 
-Cloud acceleration is what services can it outsourced to the Cloud from a desktop workstation to improve performance.
+Cloud acceleration is what services can be outsourced to the Cloud from a desktop workstation to improve performance.
 
 ![](images/acceleration.png)
 
