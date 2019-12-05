@@ -71,3 +71,7 @@ Imagine if in a package archive there was some GUIs in a standard format early i
 The desktop environment should act as a personal dashboard and include features such as Food, Accommodation, Money, USB devices, Phones, Travel
 
 ![](images/indicator.png)
+
+# Information sharing
+
+![](images/information.png)
