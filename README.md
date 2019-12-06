@@ -70,9 +70,9 @@ Imagine if in a package archive there was some GUIs in a standard format early i
 
 The desktop environment should act as a personal dashboard and include features such as Food, Accommodation, Money, USB devices, Phones, Travel
 
- * **Ordering food** from the desktop indicator
- * **Planning journeys and buying tickets from desktop indicator** If you need to buy transport, you can buy a journey from the desktop
- * **Ordering things** Hotel rooms, Coffee shops Protocol for ordering over WiFi. Product broadcast protocol
+ * **Ordering food**
+ * **Buying transport tickets** If you need to buy transport, you can buy a train ticket or taxi journey
+ * **Ordering things locally** Hotel rooms, Coffee shops Protocol for ordering over WiFi. Product broadcast protocol
 
 ![](images/indicator.png)
 
