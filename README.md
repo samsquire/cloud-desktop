@@ -79,3 +79,7 @@ The desktop environment should act as a personal dashboard and include features 
 # Information sharing
 
 ![](images/information.png)
+
+# Spreadsheet declarative computation
+
+Imagine we could have a grid of cells, whereby each cell is definition of some computable resource that has inputs and outputs.
