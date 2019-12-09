@@ -92,4 +92,6 @@ As above, every interaction or definition of a cell is a a conversation with the
 
 ![](images/cellcomputing.png)
 
+Every thing is a communication between people or with a REPL. Input cells could be offset to the left and code cells offset to the right. This makes it easy to see where you are meant to change values.
+
 ![](images/replinput.png)
