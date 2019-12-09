@@ -80,11 +80,13 @@ The desktop environment should act as a personal dashboard and include features 
 
 ![](images/information.png)
 
-# Spreadsheet declarative computation
+# Spreadsheet-like declarative creation
 
-Imagine we could have a grid of cells, whereby each cell is definition of some computable resource that has inputs and outputs. How do you:
+Imagine we have a grid of cells, whereby each cell is definition of some computable resource that potentially has inputs, side effects and outputs. Writing formulas in spreadsheets is satisfying, fast and simple.
 
-* Make everything a conversation with a computer REPL or like a forum thread
+You type an equals symbol (=) and point and click on a resource kind. So if you wanted to make an Amazon Instance, you can press equals = and click Amazon Instance. From this we have cell of type and kind Amazon instance. From this we could provision the instance with additional pressing of = and defining a provision method, such as Ansible.
+
+As above, every interaction or definition of a cell is a a conversation with the computer as an REPL or like a forum thread.
 * Allow everything to be templatable - or parameterizable
 * Allow instancing of boilerplate solutions
 
