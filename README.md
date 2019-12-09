@@ -88,5 +88,5 @@ Imagine we could have a grid of cells, whereby each cell is definition of some c
 * Allow everything to be templatable - or parameterizable
 * Allow instancing of boilerplate solutions
 
-
+![](images/repl_input.png)
 
