@@ -82,4 +82,11 @@ The desktop environment should act as a personal dashboard and include features 
 
 # Spreadsheet declarative computation
 
-Imagine we could have a grid of cells, whereby each cell is definition of some computable resource that has inputs and outputs.
+Imagine we could have a grid of cells, whereby each cell is definition of some computable resource that has inputs and outputs. How do you:
+
+* Make everything a conversation with a computer REPL or like a forum thread
+* Allow everything to be templatable - or parameterizable
+* Allow instancing of boilerplate solutions
+
+
+
