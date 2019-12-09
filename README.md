@@ -84,7 +84,7 @@ The desktop environment should act as a personal dashboard and include features 
 
 Imagine we have a grid of cells, whereby each cell is definition of some computable resource that potentially has inputs, side effects and outputs. Writing formulas in spreadsheets is satisfying, fast and simple.
 
-You type an equals symbol (=) and point and click on a resource kind. So if you wanted to make an Amazon Instance, you can press equals = and click Amazon Instance. From this we have cell of type and kind Amazon instance. From this we could provision the instance with additional pressing of = and defining a provision method, such as Ansible.
+You type an equals symbol (=) and point and click (or search) on a resource kind. So if you wanted to make an Amazon Instance, you can press equals = and click Amazon Instance. From this we have cell of type and kind Amazon instance. From this we could provision properties of the instance by selecting the cell on screen and checking its properties. We could press = an additional time and define a provisioning method such as Ansible.
 
 As above, every interaction or definition of a cell is a a conversation with the computer as an REPL or like a forum thread.
 * Allow everything to be templatable - or parameterizable
