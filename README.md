@@ -80,4 +80,7 @@ The desktop environment should act as a personal dashboard and include features 
 
 ![](images/information.png)
 
+# Clustering
+
+
 
