@@ -30,7 +30,7 @@ Cloud acceleration is what services can be outsourced to the Cloud from a deskto
 
 **File outsourcing** The ability to selectively choose where a file lives. It can be stored remotely and downloaded or streamed when needed.
 
-**Desktop queuing** The ability for a desktop to queue operations across multiple machines
+**Desktop queuing** The ability for a desktop to queue operations across multiple machines. (See [gui-thunks](https://github.com/samsquire/gui-thunks))
 
 **Enable community solutions** Other people have approaches to various system problems and ways of doing things with their computers. Such as writing their own personal management system, deciding when to delete log files, or some other per user choice about how things should work.
 
